@@ -27,14 +27,14 @@ The least I got is 3,23 USD (But the structure of NN was (30,30,20,10) so it too
 ### Some charts I made while doing analysis and building model:
 <h4 align="center">Start and end locations of rides</h4>
 <p align="center">
-<img src="img/start_end_location.png" width="400" />  
+<img src="img/start_end_location.png" width="600" />  
 </p>
 
 <h4 align="center">Analysing rides from and to airports in NYC</h4>
 <p align="center">
-<img src="img/hist_ewr.png" width="400" />
-<img src="img/hist_jfk.png" width="400" />
-<img src="img/hist_lgr.png" width="400" />    
+<img src="img/hist_ewr.png" width="600" />
+<img src="img/hist_jfk.png" width="600" />
+<img src="img/hist_lgr.png" width="600" />    
 </p>
 
 <h4 align="center">Taxi fare depending on date of the ride</h4>
