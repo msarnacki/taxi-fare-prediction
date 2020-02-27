@@ -16,6 +16,8 @@ I won't upload csv file with data because it is much too big (over 5GB). You can
 - numpy
 - matplotlib
 
+## Results:
+
 The score I got with the model on kaggle is: 3,47 USD. The score in that competition is RMSE.
 
 The least I got is 3,23 USD (But the structure of NN was (30,30,20,10) so it took more time to build that model)
