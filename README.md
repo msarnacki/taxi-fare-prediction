@@ -8,11 +8,12 @@ To run the script you will need to install few packages using pip (all packageds
 
 I won't upload csv file with data because it is much too big (over 5GB). You can get it from: https://www.kaggle.com/c/new-york-city-taxi-fare-prediction.
 
-Main packages I have used:
+## Technologies used:
+- Python 3
+- Jupyter Notebook
+- sci-kit learn
 - pandas
 - numpy
-- sci-kit learn
-- datetime
 - matplotlib
 
 The score I got with the model on kaggle is: 3,47 USD. The score in that competition is RMSE.
