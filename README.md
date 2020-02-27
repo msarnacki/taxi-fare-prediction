@@ -27,7 +27,7 @@ The least I got is 3,23 USD (But the structure of NN was (30,30,20,10) so it too
 - exploring data further and take out more informations from there (maybe separate rides to and from airports)
 - trying with other types of models and different structures of layers in MLP
 
-### Some charts I made while doing analysis and building model:
+## Some charts I made while doing analysis and building model:
 <h4 align="center">Start and end locations of rides</h4>
 <p align="center">
 <img src="img/start_end_location.png" width="600" />  
