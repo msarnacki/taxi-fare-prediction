@@ -1,5 +1,15 @@
 # Taxi fare prediction
 
+<p align="left">
+    <img src="https://img.shields.io/github/stars/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/watchers/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/commit-activity/t/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/last-commit/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/issues/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/languages/top/msarnacki/taxi-fare-prediction"/>
+    <img src="https://img.shields.io/github/repo-size/msarnacki/taxi-fare-prediction"/>
+</p>
+
 This code was a part of my BA thesis which I wrote in 2019. It also is a challenge on Kaggle.com.
 
 The subject was: "Prediction of taxi fare in New York using Python and artificial neural networks".
